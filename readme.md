@@ -16,3 +16,9 @@
 3. git status 
 4. git blame filename
 5. git log --oneline --graph
+
+## Branching
+1. git branch
+2. git branch branch-name
+3. git switch branch-name
+4. git merge source-branch (Make sure you're on the destination branch)
